@@ -1,4 +1,4 @@
-
+# Transcrição de Aúdio
 Transcrição de Áudio
 Este é um site para transcrição de áudio, onde os usuários podem iniciar e parar a transcrição por meio da fala. Além disso, o site oferece opções de contraste visual e uma seleção de notícias relacionadas à transcrição de áudio. Os usuários também podem escolher mostrar ou ocultar itens adicionais.
 
